@@ -1,0 +1,3 @@
+/c/VYRE/all_folders/NetLock/build/CMakeFiles/netlock_client.dir
+/c/VYRE/all_folders/NetLock/build/CMakeFiles/edit_cache.dir
+/c/VYRE/all_folders/NetLock/build/CMakeFiles/rebuild_cache.dir
