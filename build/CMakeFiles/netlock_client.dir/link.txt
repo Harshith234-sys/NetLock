@@ -1,1 +1,0 @@
-/c/MinGW/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/netlock_client.dir/client/src/main.cpp.o -o netlock_client.exe -Wl,--out-implib,libnetlock_client.dll.a -Wl,--major-image-version,0,--minor-image-version,0
